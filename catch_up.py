@@ -1,6 +1,6 @@
 from pygame import *
 mw = display.set_mode((700, 500))
-display.set_caption('Догонялки')
+display.set_caption('mjhgjlkhlk')
 back = transform.scale(image.load('background.png'), (700, 500))
 game = True
 sprite1 = transform.scale(image.load('sprite1.png'), (100, 100))
